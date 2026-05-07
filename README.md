@@ -6,9 +6,6 @@ intro-programming-portfolio/
 
 03_if_statement.md
 
-An if statement takes a condition and runs it in the code to see if it is true or false.
-An example would look like if()
-
 04_switch.md
 
 05_loops/
