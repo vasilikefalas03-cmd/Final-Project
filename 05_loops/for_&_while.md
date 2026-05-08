@@ -4,13 +4,6 @@ An example of a for loop: for(int i = startValue; i < endValue; i+ = someValue)
                           {
                             C.WL(body of for loop);
                           }
-You can even have another for loop within a for loop, it's called a nested loop and it looks like this: 
-for(int i = startValue; i < endValue; i+ = someValue)
-{
-  for(int j = startValue;< endValue; j+ = someValue)
-  {
-  }
-}
 Now, a while loop is used when you need tp repeat an action for an unknown numbers.
 It can aslo be used to modify the control variable through non-standard increments.
 And finally, it can be used to read a file.
