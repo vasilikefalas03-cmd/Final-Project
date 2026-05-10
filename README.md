@@ -1,1 +1,5 @@
-
+Vasili Kefalas.
+I would say the concept i feel the most confident about would be operators. They're quite easy to understand and use in a program.
+I'm not really sure what concept i still find difficult.
+How GitHub works is that you can write out programs and create branched programs that can still affect the main branch, but you can't run the program at all. This is a link on a beginner tutorial for anyone interested to learn about GitHub: https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.youtube.com/watch?v%3Da9u2yZvsqHA&ved=2ahUKEwij6KGU6q2UAxX-EVkFHXTuHB0QqYcPegQIEBAD&opi=89978449&cd&psig=AOvVaw2e5yvWRlhxKEbbfGx8JoG-&ust=1778471875368000
+As far as i know, C# is about coding in a more direct and clear manner that's simple and able to get the job done and get it done well, as long as you write the program correctly. This is a link for anyone interested in learning beginner C#: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiKmtOv662UAxWkMWIAHTehPRcQkPEHegQIGBAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgfkTfcpWqAY&usg=AOvVaw3V6Ezt6au70ynOIxmNo7Zz&opi=89978449
