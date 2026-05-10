@@ -8,23 +8,21 @@ primeNumbers = new int[5]; this creates the array, filling with default values.
 int[] primeNumbers={2,3,5,7,11}; this declares and initializes the array with actual values.
 int[] primeNumbers = new int[5]; this declares and instantiates the array, filling it with default values.
 
-You can trace an array by drawing an array, putt in any numbers and two algorithms in order to change the array.
+You can trace an array by drawing an array, put in any numbers and two algorithms in order to change the array.
 An example of how this would look looks like this:
-int[] id = {2, 0, 2, 5, 2, 1, 1, 1, 7};
-int n = id.Length;
+int[] grades1 = { 90, 100, 50, 75, 88, 72 }; // initializer old-school syntax
+int[] grades2 = { 90, 100, 50, 75, 88, 72 }; // initializer collection syntax
 
-for (int i = 0; i < n -1; i++)
+grades[0] = 90;
+grades[1] = 100;
+
+for (int i = 0; i < grades.Length; i++)
 {
-    int min-idx = i;
-    for (int j = i + 1; j < n; j++)
-    {
-        if (id[j] < id[min-idx])
-            min-idx = j;
-    }
-    swap(id[min-idx], id[i]);
+    C.WL({i+1});
 }
 
-There's one more function i want to talk about, it's called foreach.
+
+Another function i want to talk about is called foreach.
 It can be used to iterate over an array.
 An example looks like this:
 //foreach (var elem in arrayName)
