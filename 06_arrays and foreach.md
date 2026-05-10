@@ -23,3 +23,13 @@ for (int i = 0; i < n -1; i++)
     }
     swap(id[min-idx], id[i]);
 }
+
+There's one more function i want to talk about, it's called foreach.
+It can be used to iterate over an array.
+An example looks like this:
+//foreach (var elem in arrayName)
+foreach (int elem in arrayName)
+{
+    C.WL(elem)
+}
+// var while infer the type of the array
